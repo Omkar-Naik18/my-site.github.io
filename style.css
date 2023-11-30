@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.info {
+    margin-bottom: 15px;
+}
+
+ul {
+    padding: 0;
+    margin: 5px 0 0 20px;
+}
+
+/* Add your own styling as needed */
